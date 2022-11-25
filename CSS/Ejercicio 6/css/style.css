@@ -1,0 +1,17 @@
+#uno{
+    width: 50%;
+    border: 1px solid black;
+    font-size: 100%;
+}
+
+#dos{
+    width: 33%;
+    border: 1px solid red;
+    font-size: 120%;
+}
+
+#tres{
+    width: 25%;
+    border: 1px solid blue;
+    font-size: 80%;
+}
