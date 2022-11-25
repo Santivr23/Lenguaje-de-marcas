@@ -1,0 +1,13 @@
+p {
+    border: 1px solid black;
+    color: blue;
+    background-color: gainsboro;
+}
+
+p.amarillo {
+    background-color: yellow;
+}
+
+p#sexto{
+    font-size: 2em;
+}
