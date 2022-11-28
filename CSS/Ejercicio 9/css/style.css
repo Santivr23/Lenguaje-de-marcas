@@ -1,0 +1,42 @@
+#cabecera {
+    height: 100px;
+    background-color: antiquewhite;
+    border-style: hidden;
+    border: 1px solid;
+    padding: 1em;
+}
+
+#h1{
+    float: left;
+}
+
+#foto{
+    float: right;
+}
+
+#colIzq {
+    width: 69%;
+    background-color: aqua;
+    float: left;
+    border-style: hidden;
+    border: 1px solid;
+    padding: 1em;
+}
+
+#colDer {
+    width: 25%;
+    background-color: blueviolet;
+    float: right;
+    border-style: hidden;
+    border: 1px solid;
+    padding: 1em ;
+    margin-bottom: 1em;
+}
+
+#pie {
+    height: 50px;
+    background-color: brown ;
+    clear: both;
+    border: 1px solid;
+    padding: 1em;
+}
