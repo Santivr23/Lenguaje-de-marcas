@@ -1,0 +1,24 @@
+#cabecera {
+    background-color: beige;
+    border: 1px solid;
+    text-align: center;
+}
+
+#izq {
+    float: left;
+    background-color: rgb(167, 119, 212);
+    width: 20%;
+    padding: 1em;
+}
+
+#der {
+    float: right;
+    width: 75%;
+    padding: 1em;
+    background-color: rgb(88, 192, 233);
+}
+
+.border{
+    border: 1px solid white;
+    padding: 1em;
+}
