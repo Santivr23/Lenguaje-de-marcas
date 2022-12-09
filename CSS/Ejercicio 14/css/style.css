@@ -1,0 +1,41 @@
+#cabecera{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+#buscadores{
+    background-color: grey;
+    float: left;
+    width: 20%;
+    padding-right: 1em;
+    padding-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+div p{
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.4em;
+}
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: green;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+a:active{
+    color: red;
+}
