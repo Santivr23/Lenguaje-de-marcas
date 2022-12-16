@@ -1,11 +1,11 @@
-#cabecera{
+#cabecera {
     background-color: brown;
     color: white;
     text-align: center;
     padding: 1em;
 }
 
-#buscadores2{
+#buscadores2 {
     text-align: center;
     background-color: grey;
     padding-left: 1em;
@@ -14,12 +14,12 @@
     margin-top: 1em;
 }
 
-#buscadores2 a{
+#buscadores2 a {
     padding: 1em;
     border-left: 1px solid black;
 }
 
-#buscadores{
+#buscadores {
     background-color: grey;
     float: left;
     width: 20%;
@@ -29,27 +29,28 @@
     margin-top: 1em;
 }
 
-div p{
+div p {
     background-color: white;
     border: 1px solid black;
     padding: 0.4em;
 }
-a{
+
+a {
     text-decoration: none;
 }
 
-a:link{
+a:link {
     color: green;
 }
 
-a:visited{
+a:visited {
     color: blue;
 }
 
-a:hover{
+a:hover {
     color: hotpink;
 }
 
-a:active{
+a:active {
     color: red;
 }
