@@ -1,0 +1,48 @@
+#tarjeta{
+    width: 40%;
+    height: 245px;
+    margin: auto;
+    background-color: gainsboro;
+}
+
+#foto {
+    float: left;
+    width: 30%;
+    margin: 1em;
+
+}
+
+#contenedora{
+    float: right; 
+    width: 58%;
+    padding: 1em;
+}
+
+#x{
+    float: right;
+}
+
+#nombre{
+    float: left;
+}
+
+#precio{
+    float: right;
+    padding-right: 2em;
+    clear: both;
+}
+
+#colores{
+    float: left;
+    clear: both;
+}
+
+#colores li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: orangered;
+    padding: 8px;
+}
